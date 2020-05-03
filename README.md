@@ -316,4 +316,3 @@ plt.show()
 plt.pie(investname.values, labels = investname.index, autopct = "%.01f")
 plt.show()
 
-
